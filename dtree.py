@@ -2,8 +2,9 @@ from __future__ import (nested_scopes, generators, division, absolute_import, wi
                         print_function, unicode_literals)
 
 """
-author = Mateor
-PYTHON 3.3.5
+author = Abdk4Moura x Mateor 
+# corrected certain irregularities
+PYTHON 3.3.5-3.9
 """
 
 # coding=utf-8
@@ -16,8 +17,8 @@ class BTree(object):
         """A simple B-Tree Node."""
 
         def __init__(self, t):
-            self.keys = []
-            self.children = []
+            self.keys = {}
+            self.children = set([])
             self.leaf = True
             # t is the order of the parent B-Tree. Nodes need this value to define max size and splitting.
             self._t = t
