@@ -1,0 +1,35 @@
+#+title: Steps
+
+1) collection
+
+   ***
+   A place to learn cryptography
+
+   There are many ways to introduce yourself to hash algorithms. One way is to read a book on the topic. Here are a few recommendations:
+
+* **Cryptography: Theory and Practice** by Bruce Schneier
+[Image of book Cryptography: Theory and Practice by Bruce Schneier]
+* **Applied Cryptography** by Bruce Schneier
+[Image of book Applied Cryptography by Bruce Schneier]
+* **The Art of Computer Programming** by Donald Knuth
+[Image of book The Art of Computer Programming by Donald Knuth]
+
+Another way to introduce yourself to hash algorithms is to take an online course. There are many courses available, such as:
+
+* **Introduction to Cryptography** by Coursera
+[Image of course Introduction to Cryptography by Coursera]
+* **Cryptography I** by edX
+[Image of course Cryptography I by edX]
+* **Cryptography and Network Security** by Stanford University
+[Image of course Cryptography and Network Security by Stanford University]
+
+Once you have a basic understanding of hash algorithms, you can start experimenting with them. There are many online resources that can help you with this, such as:
+
+* **The Crypto++ Library**
+[Image of The Crypto++ Library]
+* **The OpenSSL Library**
+[Image of The OpenSSL Library]
+* **The GNU Multiple Precision Arithmetic Library**
+[Image of The GNU Multiple Precision Arithmetic Library]
+
+Experimenting with hash algorithms is a great way to learn more about them and how they work. You can use them to create your own security applications, or to learn more about how existing security applications work.
